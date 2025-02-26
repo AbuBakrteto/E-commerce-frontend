@@ -1,3 +1,12 @@
+# E-Commerce Frontend
+
+This is a frontend project for an e-commerce website.
+
+## 🔹 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbuBakrteto/E-commerce-frontend.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
